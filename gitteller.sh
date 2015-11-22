@@ -37,7 +37,7 @@ else
     guide
   elif [[ "$OSTYPE" == "msys" ]]; then
     guide
-  elif [[ "$OSTYPE" == "linux-gnu" ]]; then
+  elif [[ "$OSTYPE" == "win32" ]]; then
     guide
   elif [[ "$OSTYPE" == "freebsd"* ]]; then
     guide
